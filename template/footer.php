@@ -4,7 +4,7 @@
 
 $tahunSekarang = date("Y");
 
-echo "Copyright &copy; {$tahunSekarang} Khurun 'Ain Muzaqi";
+echo "Copyright &copy; {$tahunSekarang} Janur Syahputra";
 
 ?>
 </div>
